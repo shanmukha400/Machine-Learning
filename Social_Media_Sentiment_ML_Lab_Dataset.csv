@@ -1,0 +1,361 @@
+Post_ID,Tweet,Sentiment,Department,User_Age,Country,Likes
+POST_0001,I really enjoyed this product and the service was excellent,Positive,CSE,19,USA,2780
+POST_0002,The application is difficult to use and keeps failing,Negative,ECE,21,USA,4266
+POST_0003,I received the service and I am checking the results,Neutral,CSE,22,UK,452
+POST_0004,"Great quality and fast delivery, very satisfied",Positive,CSE,23,Australia,1657
+POST_0005,The new update is confusing and made the application worse,Negative,AIML,23,Australia,3075
+POST_0006,The support team asked me to provide more details,Neutral,AIML,24,USA,287
+POST_0007,"I love this service, everything was smooth and simple",Positive,CSE,19,UK,1447
+POST_0008,"Very bad product, I would not recommend it",Negative,CSE,25,India,1764
+POST_0009,The product arrived today and I have started using it,Neutral,CSE,21,USA,2671
+POST_0010,The application is easy to use and works very well,Positive,EEE,20,UK,4930
+POST_0011,"Terrible experience, I am unhappy with the results",Negative,CSE,20,UK,1475
+POST_0012,The update was released this week for all users,Neutral,AIML,18,UK,2463
+POST_0013,The new update is useful and improved my experience,Positive,CSE,25,USA,3362
+POST_0014,Support team did not solve my problem and response was slow,Negative,CSE,18,Australia,2197
+POST_0015,,Neutral,EEE,24,UK,972
+POST_0016,"Very good product, definitely worth trying",Positive,ECE,19,UK,2123
+POST_0017,I am disappointed with this product and the service was poor,Negative,ECE,23,India,840
+POST_0018,The application has several features for users,Neutral,ECE,19,UK,124
+POST_0019,"Amazing experience, I am happy with the results",Positive,ECE,22,UK,2931
+POST_0020,"Poor quality and very late delivery, not satisfied",Negative,EEE,24,USA,2971
+POST_0021,The product is available in different versions,Neutral,CSE,22,Australia,2415
+POST_0022,"Excellent support team, they solved my problem quickly",Positive,ECE,18,USA,717
+POST_0023,"I dislike this service, everything was difficult",Negative,CSE,18,USA,4701
+POST_0024,The application contains a new settings section,Neutral,ECE,24,India,1048
+POST_0025,I really enjoyed this product and the service was excellent,Positive,CSE,20,Australia,2095
+POST_0026,The application is difficult to use and keeps failing,Negative,CSE,19,UK,1620
+POST_0027,I received the service and I am checking the results,Neutral,AIML,23,India,2950
+POST_0028,"Great quality and fast delivery, very satisfied",Positive,ECE,18,Australia,2941
+POST_0029,The new update is confusing and made the application worse,Negative,EEE,19,Australia,4905
+POST_0030,The support team asked me to provide more details,Neutral,CSE,23,UK,783
+POST_0031,"I love this service, everything was smooth and simple",Positive,AIML,20,USA,4578
+POST_0032,"Very bad product, I would not recommend it",,AIML,20,USA,4586
+POST_0033,The product arrived today and I have started using it,Neutral,ECE,24,Australia,2345
+POST_0034,The application is easy to use and works very well,Positive,EEE,21,India,4922
+POST_0035,"Terrible experience, I am unhappy with the results",Negative,ECE,20,UK,1902
+POST_0036,The update was released this week for all users,Neutral,ECE,23,UK,4987
+POST_0037,The new update is useful and improved my experience,Positive,EEE,22,USA,3626
+POST_0038,Support team did not solve my problem and response was slow,Negative,AIML,24,India,464
+POST_0039,I am comparing this service with another option,Neutral,EEE,21,India,519
+POST_0040,"Very good product, definitely worth trying",Positive,AIML,19,Australia,2851
+POST_0041,I am disappointed with this product and the service was poor,Negative,EEE,23,India,4171
+POST_0042,The application has several features for users,Neutral,AIML,23,UK,969
+POST_0043,"Amazing experience, I am happy with the results",Positive,ECE,22,Australia,3195
+POST_0044,"Poor quality and very late delivery, not satisfied",Negative,AIML,22,India,4290
+POST_0045,The product is available in different versions,Neutral,ECE,21,UK,4013
+POST_0046,"Excellent support team, they solved my problem quickly",Positive,EEE,20,India,4713
+POST_0047,"I dislike this service, everything was difficult",Negative,AIML,25,India,2074
+POST_0048,The application contains a new settings section,Neutral,ECE,21,India,4933
+POST_0049,I really enjoyed this product and the service was excellent,Positive,ECE,21,USA,2965
+POST_0050,The application is difficult to use and keeps failing,Negative,EEE,25,USA,949
+POST_0051,I received the service and I am checking the results,Neutral,EEE,23,India,1810
+POST_0052,"Great quality and fast delivery, very satisfied",Positive,ECE,19,India,3498
+POST_0053,The new update is confusing and made the application worse,Negative,CSE,23,India,2581
+POST_0054,The support team asked me to provide more details,Neutral,EEE,21,UK,931
+POST_0055,"I love this service, everything was smooth and simple",Positive,AIML,24,UK,3406
+POST_0056,"Very bad product, I would not recommend it",Negative,AIML,21,India,1311
+POST_0057,The product arrived today and I have started using it,Neutral,EEE,19,USA,3588
+POST_0058,The application is easy to use and works very well,Positive,EEE,24,USA,3748
+POST_0059,"Terrible experience, I am unhappy with the results",Negative,CSE,19,Australia,3036
+POST_0060,The update was released this week for all users,Neutral,EEE,19,India,4713
+POST_0061,The new update is useful and improved my experience,Positive,ECE,24,Australia,1170
+POST_0062,Support team did not solve my problem and response was slow,Negative,CSE,23,UK,4479
+POST_0063,I am comparing this service with another option,Neutral,ECE,18,India,2462
+POST_0064,"Very good product, definitely worth trying",Positive,ECE,24,India,287
+POST_0065,I am disappointed with this product and the service was poor,Negative,CSE,20,Australia,1161
+POST_0066,The application has several features for users,Neutral,CSE,19,Australia,143
+POST_0067,"Amazing experience, I am happy with the results",Positive,EEE,23,UK,244
+POST_0068,"Poor quality and very late delivery, not satisfied",Negative,ECE,20,Australia,2176
+POST_0069,The product is available in different versions,Neutral,ECE,24,India,2051
+POST_0070,"Excellent support team, they solved my problem quickly",Positive,ECE,19,UK,305
+POST_0071,"I dislike this service, everything was difficult",Negative,EEE,24,India,4042
+POST_0072,The application contains a new settings section,Neutral,EEE,25,India,4654
+POST_0073,I really enjoyed this product and the service was excellent,Positive,EEE,22,USA,1131
+POST_0074,The application is difficult to use and keeps failing,Negative,ECE,19,UK,3367
+POST_0075,I received the service and I am checking the results,Neutral,CSE,20,UK,11
+POST_0076,"Great quality and fast delivery, very satisfied",Positive,ECE,19,UK,2229
+POST_0077,The new update is confusing and made the application worse,Negative,CSE,18,Australia,2077
+POST_0078,The support team asked me to provide more details,Neutral,EEE,23,Australia,4873
+POST_0079,"I love this service, everything was smooth and simple",Positive,EEE,19,Australia,844
+POST_0080,"Very bad product, I would not recommend it",Negative,EEE,18,USA,553
+POST_0081,The product arrived today and I have started using it,Neutral,ECE,22,USA,1260
+POST_0082,The application is easy to use and works very well,Positive,CSE,18,Australia,2410
+POST_0083,"Terrible experience, I am unhappy with the results",Negative,ECE,18,Australia,2209
+POST_0084,The update was released this week for all users,Neutral,EEE,19,India,4683
+POST_0085,The new update is useful and improved my experience,Positive,CSE,18,USA,1887
+POST_0086,Support team did not solve my problem and response was slow,Negative,AIML,19,Australia,4883
+POST_0087,I am comparing this service with another option,Neutral,ECE,21,USA,4416
+POST_0088,,Positive,ECE,21,Australia,3479
+POST_0089,I am disappointed with this product and the service was poor,Negative,CSE,20,USA,1694
+POST_0090,The application has several features for users,Neutral,AIML,23,USA,526
+POST_0091,"Amazing experience, I am happy with the results",Positive,EEE,22,Australia,2172
+POST_0092,"Poor quality and very late delivery, not satisfied",Negative,ECE,25,India,3977
+POST_0093,The product is available in different versions,Neutral,CSE,23,India,1751
+POST_0094,"Excellent support team, they solved my problem quickly",Positive,CSE,19,Australia,2361
+POST_0095,"I dislike this service, everything was difficult",Negative,EEE,23,Australia,4131
+POST_0096,The application contains a new settings section,Neutral,AIML,21,USA,2686
+POST_0097,I really enjoyed this product and the service was excellent,Positive,EEE,22,Australia,4535
+POST_0098,The application is difficult to use and keeps failing,Negative,AIML,25,India,2988
+POST_0099,I received the service and I am checking the results,Neutral,EEE,21,USA,194
+POST_0100,"Great quality and fast delivery, very satisfied",Positive,ECE,25,India,4218
+POST_0101,The new update is confusing and made the application worse,Negative,EEE,20,India,2708
+POST_0102,The support team asked me to provide more details,Neutral,EEE,20,USA,3814
+POST_0103,"I love this service, everything was smooth and simple",Positive,ECE,23,USA,2443
+POST_0104,"Very bad product, I would not recommend it",Negative,EEE,18,India,3213
+POST_0105,The product arrived today and I have started using it,Neutral,AIML,24,USA,3472
+POST_0106,The application is easy to use and works very well,Positive,AIML,23,UK,4651
+POST_0107,"Terrible experience, I am unhappy with the results",Negative,CSE,22,India,3866
+POST_0108,The update was released this week for all users,Neutral,EEE,24,Australia,2253
+POST_0109,The new update is useful and improved my experience,Positive,ECE,20,India,1268
+POST_0110,Support team did not solve my problem and response was slow,Negative,ECE,20,India,4571
+POST_0111,I am comparing this service with another option,Neutral,ECE,23,USA,2237
+POST_0112,"Very good product, definitely worth trying",Positive,ECE,25,Australia,3980
+POST_0113,I am disappointed with this product and the service was poor,Negative,ECE,21,UK,325
+POST_0114,The application has several features for users,Neutral,ECE,18,UK,3861
+POST_0115,"Amazing experience, I am happy with the results",Positive,CSE,22,India,4603
+POST_0116,"Poor quality and very late delivery, not satisfied",Negative,ECE,18,Australia,1270
+POST_0117,The product is available in different versions,Neutral,AIML,21,Australia,4703
+POST_0118,"Excellent support team, they solved my problem quickly",Positive,ECE,24,UK,4661
+POST_0119,"I dislike this service, everything was difficult",Negative,EEE,20,India,2575
+POST_0120,The application contains a new settings section,Neutral,ECE,21,USA,1986
+POST_0121,I really enjoyed this product and the service was excellent,Positive,AIML,24,USA,128
+POST_0122,The application is difficult to use and keeps failing,Negative,AIML,19,India,851
+POST_0123,I received the service and I am checking the results,Neutral,CSE,25,India,2994
+POST_0124,"Great quality and fast delivery, very satisfied",Positive,AIML,20,Australia,2756
+POST_0125,The new update is confusing and made the application worse,Negative,ECE,21,Australia,1644
+POST_0126,The support team asked me to provide more details,Neutral,EEE,18,UK,242
+POST_0127,"I love this service, everything was smooth and simple",Positive,CSE,20,USA,170
+POST_0128,"Very bad product, I would not recommend it",Negative,AIML,22,Australia,3512
+POST_0129,The product arrived today and I have started using it,Neutral,CSE,21,Australia,2158
+POST_0130,The application is easy to use and works very well,Positive,AIML,22,USA,2258
+POST_0131,"Terrible experience, I am unhappy with the results",Negative,EEE,21,Australia,857
+POST_0132,The update was released this week for all users,Neutral,EEE,20,USA,3990
+POST_0133,The new update is useful and improved my experience,Positive,ECE,22,Australia,4232
+POST_0134,Support team did not solve my problem and response was slow,Negative,EEE,25,UK,2799
+POST_0135,I am comparing this service with another option,Neutral,ECE,20,Australia,4062
+POST_0136,"Very good product, definitely worth trying",Positive,ECE,23,UK,2713
+POST_0137,I am disappointed with this product and the service was poor,Negative,CSE,20,UK,2853
+POST_0138,The application has several features for users,Neutral,CSE,20,UK,1471
+POST_0139,"Amazing experience, I am happy with the results",Positive,CSE,23,Australia,4837
+POST_0140,"Poor quality and very late delivery, not satisfied",Negative,AIML,19,Australia,4423
+POST_0141,The product is available in different versions,Neutral,ECE,21,USA,1966
+POST_0142,"Excellent support team, they solved my problem quickly",Positive,EEE,24,UK,3388
+POST_0143,"I dislike this service, everything was difficult",Negative,EEE,18,Australia,1893
+POST_0144,The application contains a new settings section,Neutral,CSE,21,UK,3634
+POST_0145,I really enjoyed this product and the service was excellent,Positive,AIML,22,USA,3892
+POST_0146,The application is difficult to use and keeps failing,Negative,EEE,25,India,1292
+POST_0147,I received the service and I am checking the results,Neutral,AIML,22,USA,3637
+POST_0148,"Great quality and fast delivery, very satisfied",Positive,AIML,21,USA,4355
+POST_0149,The new update is confusing and made the application worse,Negative,ECE,25,India,365
+POST_0150,The support team asked me to provide more details,Neutral,CSE,20,Australia,2476
+POST_0151,"I love this service, everything was smooth and simple",Positive,ECE,19,Australia,746
+POST_0152,"Very bad product, I would not recommend it",Negative,ECE,18,USA,920
+POST_0153,The product arrived today and I have started using it,Neutral,CSE,22,UK,2829
+POST_0154,The application is easy to use and works very well,Positive,CSE,20,USA,4443
+POST_0155,"Terrible experience, I am unhappy with the results",Negative,AIML,20,Australia,1773
+POST_0156,The update was released this week for all users,,CSE,21,India,4780
+POST_0157,The new update is useful and improved my experience,Positive,ECE,23,Australia,946
+POST_0158,Support team did not solve my problem and response was slow,Negative,CSE,19,UK,243
+POST_0159,I am comparing this service with another option,Neutral,CSE,23,Australia,3158
+POST_0160,"Very good product, definitely worth trying",Positive,AIML,19,UK,1872
+POST_0161,I am disappointed with this product and the service was poor,Negative,CSE,18,India,4425
+POST_0162,The application has several features for users,Neutral,CSE,18,UK,4476
+POST_0163,"Amazing experience, I am happy with the results",Positive,CSE,23,UK,4915
+POST_0164,"Poor quality and very late delivery, not satisfied",Negative,AIML,18,Australia,1211
+POST_0165,The product is available in different versions,Neutral,CSE,21,India,643
+POST_0166,"Excellent support team, they solved my problem quickly",Positive,ECE,23,USA,1283
+POST_0167,"I dislike this service, everything was difficult",Negative,AIML,24,USA,4552
+POST_0168,The application contains a new settings section,Neutral,AIML,20,Australia,3836
+POST_0169,I really enjoyed this product and the service was excellent,Positive,EEE,20,Australia,755
+POST_0170,The application is difficult to use and keeps failing,Negative,ECE,20,UK,1869
+POST_0171,I received the service and I am checking the results,Neutral,AIML,19,Australia,507
+POST_0172,"Great quality and fast delivery, very satisfied",Positive,AIML,25,UK,558
+POST_0173,The new update is confusing and made the application worse,Negative,ECE,20,UK,4516
+POST_0174,The support team asked me to provide more details,Neutral,AIML,24,Australia,4057
+POST_0175,"I love this service, everything was smooth and simple",Positive,EEE,24,India,3715
+POST_0176,"Very bad product, I would not recommend it",Negative,CSE,23,USA,2155
+POST_0177,The product arrived today and I have started using it,Neutral,EEE,23,Australia,692
+POST_0178,The application is easy to use and works very well,Positive,ECE,24,India,256
+POST_0179,"Terrible experience, I am unhappy with the results",Negative,ECE,19,USA,2646
+POST_0180,The update was released this week for all users,Neutral,CSE,22,USA,4677
+POST_0181,The new update is useful and improved my experience,Positive,EEE,25,Australia,2645
+POST_0182,Support team did not solve my problem and response was slow,Negative,ECE,22,USA,2654
+POST_0183,I am comparing this service with another option,Neutral,CSE,22,USA,2080
+POST_0184,"Very good product, definitely worth trying",Positive,CSE,22,Australia,861
+POST_0185,I am disappointed with this product and the service was poor,Negative,ECE,24,India,1269
+POST_0186,The application has several features for users,Neutral,AIML,21,UK,1564
+POST_0187,"Amazing experience, I am happy with the results",Positive,AIML,20,USA,3188
+POST_0188,"Poor quality and very late delivery, not satisfied",Negative,ECE,19,Australia,3956
+POST_0189,The product is available in different versions,Neutral,EEE,23,USA,2306
+POST_0190,"Excellent support team, they solved my problem quickly",Positive,ECE,20,USA,1771
+POST_0191,"I dislike this service, everything was difficult",Negative,CSE,22,USA,4675
+POST_0192,The application contains a new settings section,Neutral,ECE,19,Australia,4976
+POST_0193,I really enjoyed this product and the service was excellent,Positive,CSE,22,Australia,1473
+POST_0194,The application is difficult to use and keeps failing,Negative,EEE,24,USA,1449
+POST_0195,I received the service and I am checking the results,Neutral,AIML,24,India,3156
+POST_0196,"Great quality and fast delivery, very satisfied",Positive,ECE,20,Australia,3981
+POST_0197,The new update is confusing and made the application worse,Negative,ECE,21,Australia,219
+POST_0198,The support team asked me to provide more details,Neutral,ECE,24,India,264
+POST_0199,"I love this service, everything was smooth and simple",Positive,CSE,22,USA,2774
+POST_0200,"Very bad product, I would not recommend it",Negative,AIML,19,India,479
+POST_0201,The product arrived today and I have started using it,Neutral,ECE,19,UK,3878
+POST_0202,,Positive,CSE,24,UK,924
+POST_0203,"Terrible experience, I am unhappy with the results",Negative,ECE,24,UK,4873
+POST_0204,The update was released this week for all users,Neutral,EEE,22,UK,34
+POST_0205,The new update is useful and improved my experience,Positive,CSE,21,UK,3365
+POST_0206,Support team did not solve my problem and response was slow,Negative,AIML,22,UK,3138
+POST_0207,I am comparing this service with another option,Neutral,EEE,25,UK,2169
+POST_0208,"Very good product, definitely worth trying",Positive,EEE,24,Australia,1714
+POST_0209,I am disappointed with this product and the service was poor,Negative,AIML,20,India,3087
+POST_0210,The application has several features for users,Neutral,AIML,20,Australia,2056
+POST_0211,"Amazing experience, I am happy with the results",Positive,EEE,23,India,1016
+POST_0212,"Poor quality and very late delivery, not satisfied",Negative,ECE,24,UK,1637
+POST_0213,The product is available in different versions,Neutral,CSE,18,USA,3479
+POST_0214,"Excellent support team, they solved my problem quickly",Positive,AIML,22,Australia,2313
+POST_0215,"I dislike this service, everything was difficult",Negative,ECE,25,USA,2999
+POST_0216,The application contains a new settings section,Neutral,AIML,18,USA,3536
+POST_0217,I really enjoyed this product and the service was excellent,Positive,EEE,19,USA,3917
+POST_0218,The application is difficult to use and keeps failing,Negative,AIML,21,India,3862
+POST_0219,I received the service and I am checking the results,Neutral,ECE,23,UK,1450
+POST_0220,"Great quality and fast delivery, very satisfied",Positive,AIML,19,USA,1164
+POST_0221,The new update is confusing and made the application worse,Negative,ECE,23,Australia,2705
+POST_0222,The support team asked me to provide more details,Neutral,ECE,21,UK,2226
+POST_0223,"I love this service, everything was smooth and simple",Positive,EEE,20,Australia,4206
+POST_0224,"Very bad product, I would not recommend it",Negative,AIML,25,Australia,4563
+POST_0225,The product arrived today and I have started using it,Neutral,EEE,18,Australia,813
+POST_0226,The application is easy to use and works very well,Positive,AIML,19,Australia,322
+POST_0227,"Terrible experience, I am unhappy with the results",Negative,CSE,25,USA,3503
+POST_0228,The update was released this week for all users,Neutral,ECE,23,India,3340
+POST_0229,The new update is useful and improved my experience,Positive,AIML,18,Australia,1141
+POST_0230,Support team did not solve my problem and response was slow,Negative,CSE,24,USA,1089
+POST_0231,I am comparing this service with another option,Neutral,CSE,24,India,4270
+POST_0232,"Very good product, definitely worth trying",Positive,ECE,21,UK,3182
+POST_0233,I am disappointed with this product and the service was poor,Negative,AIML,24,UK,4130
+POST_0234,The application has several features for users,Neutral,ECE,22,USA,4469
+POST_0235,"Amazing experience, I am happy with the results",Positive,AIML,21,Australia,2280
+POST_0236,"Poor quality and very late delivery, not satisfied",Negative,AIML,20,UK,2934
+POST_0237,The product is available in different versions,Neutral,CSE,24,Australia,3346
+POST_0238,"Excellent support team, they solved my problem quickly",Positive,CSE,21,UK,3803
+POST_0239,"I dislike this service, everything was difficult",Negative,EEE,21,UK,1312
+POST_0240,The application contains a new settings section,Neutral,ECE,21,UK,4787
+POST_0241,I really enjoyed this product and the service was excellent,Positive,AIML,23,India,126
+POST_0242,The application is difficult to use and keeps failing,Negative,ECE,25,Australia,4389
+POST_0243,I received the service and I am checking the results,Neutral,AIML,23,UK,1019
+POST_0244,"Great quality and fast delivery, very satisfied",Positive,CSE,23,Australia,4079
+POST_0245,The new update is confusing and made the application worse,Negative,ECE,21,India,3629
+POST_0246,The support team asked me to provide more details,Neutral,EEE,21,UK,4086
+POST_0247,"I love this service, everything was smooth and simple",Positive,CSE,22,USA,1767
+POST_0248,"Very bad product, I would not recommend it",Negative,AIML,18,India,2112
+POST_0249,The product arrived today and I have started using it,Neutral,CSE,24,UK,4159
+POST_0250,The application is easy to use and works very well,Positive,ECE,20,UK,1375
+POST_0251,"Terrible experience, I am unhappy with the results",Negative,CSE,22,UK,3729
+POST_0252,The update was released this week for all users,Neutral,ECE,24,India,1940
+POST_0253,The new update is useful and improved my experience,Positive,AIML,24,UK,1882
+POST_0254,Support team did not solve my problem and response was slow,Negative,AIML,21,USA,3159
+POST_0255,I am comparing this service with another option,Neutral,ECE,24,Australia,4530
+POST_0256,"Very good product, definitely worth trying",Positive,CSE,24,USA,2387
+POST_0257,I am disappointed with this product and the service was poor,Negative,ECE,23,UK,4744
+POST_0258,The application has several features for users,Neutral,AIML,22,India,2580
+POST_0259,"Amazing experience, I am happy with the results",Positive,CSE,25,Australia,3248
+POST_0260,"Poor quality and very late delivery, not satisfied",Negative,ECE,21,India,3829
+POST_0261,The product is available in different versions,Neutral,AIML,21,India,27
+POST_0262,"Excellent support team, they solved my problem quickly",Positive,AIML,19,India,4153
+POST_0263,"I dislike this service, everything was difficult",Negative,CSE,18,USA,3402
+POST_0264,The application contains a new settings section,Neutral,AIML,22,USA,901
+POST_0265,I really enjoyed this product and the service was excellent,Positive,AIML,20,USA,2881
+POST_0266,The application is difficult to use and keeps failing,Negative,EEE,20,UK,1378
+POST_0267,I received the service and I am checking the results,Neutral,AIML,25,UK,4241
+POST_0268,"Great quality and fast delivery, very satisfied",Positive,EEE,18,Australia,1058
+POST_0269,The new update is confusing and made the application worse,Negative,CSE,18,Australia,4248
+POST_0270,The support team asked me to provide more details,Neutral,AIML,18,Australia,3197
+POST_0271,"I love this service, everything was smooth and simple",Positive,ECE,19,India,1761
+POST_0272,"Very bad product, I would not recommend it",Negative,AIML,20,UK,4818
+POST_0273,The product arrived today and I have started using it,Neutral,AIML,25,USA,2888
+POST_0274,The application is easy to use and works very well,Positive,AIML,19,UK,4576
+POST_0275,"Terrible experience, I am unhappy with the results",Negative,CSE,25,Australia,1462
+POST_0276,The update was released this week for all users,Neutral,CSE,19,India,44
+POST_0277,The new update is useful and improved my experience,Positive,CSE,22,USA,1514
+POST_0278,Support team did not solve my problem and response was slow,Negative,ECE,24,USA,1033
+POST_0279,I am comparing this service with another option,Neutral,CSE,18,Australia,273
+POST_0280,"Very good product, definitely worth trying",Positive,EEE,25,Australia,4476
+POST_0281,I am disappointed with this product and the service was poor,Negative,AIML,24,UK,515
+POST_0282,The application has several features for users,Neutral,ECE,25,India,2668
+POST_0283,"Amazing experience, I am happy with the results",Positive,AIML,19,Australia,3280
+POST_0284,"Poor quality and very late delivery, not satisfied",Negative,EEE,24,UK,3332
+POST_0285,The product is available in different versions,Neutral,EEE,24,USA,622
+POST_0286,"Excellent support team, they solved my problem quickly",Positive,CSE,22,India,3260
+POST_0287,"I dislike this service, everything was difficult",Negative,ECE,18,Australia,66
+POST_0288,The application contains a new settings section,Neutral,EEE,24,USA,4616
+POST_0289,I really enjoyed this product and the service was excellent,Positive,CSE,22,UK,2532
+POST_0290,The application is difficult to use and keeps failing,Negative,AIML,19,India,1187
+POST_0291,I received the service and I am checking the results,Neutral,EEE,22,Australia,548
+POST_0292,"Great quality and fast delivery, very satisfied",Positive,CSE,21,Australia,72
+POST_0293,The new update is confusing and made the application worse,Negative,EEE,24,USA,1781
+POST_0294,The support team asked me to provide more details,Neutral,EEE,21,UK,1638
+POST_0295,"I love this service, everything was smooth and simple",Positive,EEE,25,UK,1174
+POST_0296,"Very bad product, I would not recommend it",Negative,AIML,23,USA,178
+POST_0297,The product arrived today and I have started using it,Neutral,AIML,24,UK,798
+POST_0298,The application is easy to use and works very well,Positive,CSE,21,Australia,4304
+POST_0299,"Terrible experience, I am unhappy with the results",Negative,AIML,19,India,3084
+POST_0300,The update was released this week for all users,Neutral,CSE,24,Australia,1129
+POST_0301,The new update is useful and improved my experience,Positive,ECE,23,UK,2745
+POST_0302,Support team did not solve my problem and response was slow,Negative,ECE,19,UK,2933
+POST_0303,I am comparing this service with another option,Neutral,EEE,25,India,1850
+POST_0304,"Very good product, definitely worth trying",Positive,EEE,20,USA,1390
+POST_0305,I am disappointed with this product and the service was poor,Negative,CSE,25,Australia,2263
+POST_0306,The application has several features for users,Neutral,AIML,21,UK,4312
+POST_0307,"Amazing experience, I am happy with the results",Positive,EEE,24,UK,2917
+POST_0308,"Poor quality and very late delivery, not satisfied",Negative,EEE,24,USA,2352
+POST_0309,The product is available in different versions,Neutral,AIML,25,UK,4327
+POST_0310,"Excellent support team, they solved my problem quickly",Positive,ECE,25,USA,1755
+POST_0311,"I dislike this service, everything was difficult",Negative,EEE,21,UK,1577
+POST_0312,The application contains a new settings section,Neutral,AIML,24,India,972
+POST_0313,I really enjoyed this product and the service was excellent,Positive,ECE,20,USA,2593
+POST_0314,The application is difficult to use and keeps failing,Negative,EEE,18,USA,913
+POST_0315,I received the service and I am checking the results,Neutral,ECE,23,India,3197
+POST_0316,"Great quality and fast delivery, very satisfied",Positive,AIML,24,India,2378
+POST_0317,The new update is confusing and made the application worse,Negative,CSE,24,UK,3553
+POST_0318,The support team asked me to provide more details,Neutral,EEE,20,UK,1189
+POST_0319,"I love this service, everything was smooth and simple",Positive,AIML,23,UK,687
+POST_0320,"Very bad product, I would not recommend it",Negative,AIML,23,Australia,1894
+POST_0321,The product arrived today and I have started using it,Neutral,CSE,20,Australia,1811
+POST_0322,The application is easy to use and works very well,Positive,EEE,25,USA,1644
+POST_0323,"Terrible experience, I am unhappy with the results",Negative,AIML,22,UK,1335
+POST_0324,The update was released this week for all users,Neutral,CSE,21,UK,378
+POST_0325,The new update is useful and improved my experience,Positive,ECE,23,India,615
+POST_0326,Support team did not solve my problem and response was slow,Negative,ECE,20,India,1754
+POST_0327,I am comparing this service with another option,Neutral,EEE,23,UK,4267
+POST_0328,"Very good product, definitely worth trying",Positive,ECE,18,UK,4938
+POST_0329,I am disappointed with this product and the service was poor,Negative,CSE,22,India,689
+POST_0330,The application has several features for users,Neutral,ECE,21,India,382
+POST_0331,"Amazing experience, I am happy with the results",Positive,AIML,20,Australia,1412
+POST_0332,"Poor quality and very late delivery, not satisfied",Negative,EEE,25,UK,371
+POST_0333,The product is available in different versions,Neutral,ECE,23,UK,115
+POST_0334,"Excellent support team, they solved my problem quickly",Positive,CSE,24,Australia,3324
+POST_0335,"I dislike this service, everything was difficult",Negative,AIML,24,UK,2939
+POST_0336,The application contains a new settings section,Neutral,EEE,21,UK,1073
+POST_0337,I really enjoyed this product and the service was excellent,Positive,CSE,23,USA,3150
+POST_0338,The application is difficult to use and keeps failing,Negative,CSE,20,UK,4657
+POST_0339,I received the service and I am checking the results,Neutral,EEE,24,Australia,3662
+POST_0340,"Great quality and fast delivery, very satisfied",Positive,ECE,23,UK,983
+POST_0341,The new update is confusing and made the application worse,Negative,EEE,25,India,1951
+POST_0342,The support team asked me to provide more details,Neutral,EEE,23,Australia,4848
+POST_0343,"I love this service, everything was smooth and simple",Positive,AIML,18,USA,4174
+POST_0344,"Very bad product, I would not recommend it",Negative,EEE,23,India,1105
+POST_0345,The product arrived today and I have started using it,Neutral,CSE,24,India,3998
+POST_0346,The application is easy to use and works very well,Positive,EEE,22,India,4645
+POST_0347,"Terrible experience, I am unhappy with the results",Negative,CSE,25,UK,3639
+POST_0348,The update was released this week for all users,Neutral,CSE,22,Australia,2644
+POST_0349,The new update is useful and improved my experience,Positive,AIML,22,USA,3556
+POST_0350,Support team did not solve my problem and response was slow,Negative,EEE,19,USA,3199
+POST_0351,I am comparing this service with another option,Neutral,AIML,20,India,4943
+POST_0352,"Very good product, definitely worth trying",Positive,CSE,24,USA,596
+POST_0353,I am disappointed with this product and the service was poor,Negative,ECE,19,USA,2640
+POST_0354,The application has several features for users,Neutral,ECE,18,India,3731
+POST_0355,"Amazing experience, I am happy with the results",Positive,EEE,25,UK,3236
+POST_0356,"Poor quality and very late delivery, not satisfied",Negative,EEE,18,India,1449
+POST_0357,The product is available in different versions,Neutral,AIML,19,India,2659
+POST_0358,"Excellent support team, they solved my problem quickly",Positive,CSE,25,USA,2721
+POST_0359,"I dislike this service, everything was difficult",Negative,ECE,22,USA,2298
+POST_0360,The application contains a new settings section,Neutral,CSE,18,USA,2374
